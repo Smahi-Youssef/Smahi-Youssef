@@ -1,6 +1,13 @@
 # Hi 👋, I'm Smahi Youssef
 
-## Full Stack Developer
+## I am a Full Stack Software Engineer and a second-year Master's student in Networks and Computer
+Systems at FSTS. With a Bachelor's degree in "Information Systems and Digital Transformation" .
+I am passionate about software development and committed to excellence in designing, 
+developing, and deploying websites. Known for my dedication, enthusiasm, and quick adaptability to new technologies,
+I aim to continuously enhance my IT and communication skills while sharing knowledge and engaging in public speaking.
+My goal is to achieve mastery in my field and contribute meaningfully to the tech community.
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 ### 💟 I’m looking to collaborate on:
 - **Spring & Angular projects**
@@ -18,7 +25,7 @@
 ## 🛠 Skills
 
 ### Programming Languages:
-- Java, JavaScript, TypeScript, Python
+- Java,Spring,Angular,Jee ...
 
 ---
 
@@ -26,9 +33,3 @@
 
 - LinkedIn: [www.linkedin.com/in/smahi-youssef-41b627253](https://www.linkedin.com/in/smahi-youssef-41b627253)
 
----
-
-## Add-ons:
-
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&locale=en)
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&)
