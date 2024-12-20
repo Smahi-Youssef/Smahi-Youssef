@@ -20,7 +20,7 @@
 ## 🛠 Skills
 
 ### Programming Languages:
-- Java,Spring,Angular,Jee ...
+- Java, Spring, Angular,Jee , Flutter ...
 
 ---
 
