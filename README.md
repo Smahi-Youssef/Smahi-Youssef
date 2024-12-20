@@ -1,18 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Smahi Youssef
 
-<h1>hello it's me !</h1>
+## Full Stack Developer
 
-<!--
-**Smahi-Youssef/Smahi-Youssef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💟 I’m looking to collaborate on:
+- **Spring & Angular projects**
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning:
+- DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### ⚡ Fun fact:
+- I think I am funny
+
+---
+
+## 🛠 Skills
+
+### Programming Languages:
+- Java, JavaScript, TypeScript, Python
+
+---
+
+## 👤 Socials:
+
+- LinkedIn: [www.linkedin.com/in/smahi-youssef-41b627253](https://www.linkedin.com/in/smahi-youssef-41b627253)
+
+---
+
+## Add-ons:
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&locale=en)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&)
