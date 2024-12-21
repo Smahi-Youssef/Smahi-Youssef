@@ -8,7 +8,7 @@
 - **Spring & Angular projects**
 
 ### 🌱 I’m currently learning:
-- DevOps
+- DevOps & Cloud Computing 
 
 
 
